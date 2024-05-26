@@ -1,5 +1,5 @@
 var name= prompt(" Ismingizni kiriting ")
-var surname = prompt(" Sizning faniliyangiz ")
+var surname = prompt(" Sizning familyangiz ")
 
 var miSol1 = prompt("Misolni yeching 23+25= ")
 var miSol2 = prompt("Misolni yeching 96-85= ")
